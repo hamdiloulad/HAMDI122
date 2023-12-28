@@ -1,4 +1,4 @@
-<img src="[https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Pn0x0WdbvZOt82Vn2mqxQA.jpeg](https://quotefancy.com/media/wallpaper/3840x2160/4733398-Peter-Norvig-Quote-More-data-beats-clever-algorithms-but-better.jpg)" alt="CoverImage" style="width:100%;">
+<img src="https://quotefancy.com/media/wallpaper/3840x2160/4733398-Peter-Norvig-Quote-More-data-beats-clever-algorithms-but-better.jpg" alt="CoverImage" style="width:100%;">
 <h1 align="center">Hi 👋, I'm Hamdi Loulad</h1>
 <h3 align="center">Experienced and passionate Data Scientist with 4 years of expertise.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
